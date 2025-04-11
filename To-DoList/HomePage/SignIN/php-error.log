@@ -1,0 +1,47 @@
+[12-Feb-2025 23:51:15 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[12-Feb-2025 23:57:51 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[13-Feb-2025 00:04:16 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[13-Feb-2025 00:25:50 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[13-Feb-2025 00:38:47 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[13-Feb-2025 00:39:02 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 16:35:36 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 16:45:05 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 16:49:13 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 16:57:06 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 17:02:13 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 17:02:38 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 17:18:49 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 17:20:06 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_id" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 37
+[14-Feb-2025 20:08:08 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 39
+[14-Feb-2025 20:08:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 39
+[14-Feb-2025 20:08:08 Europe/Berlin] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 39
+[14-Feb-2025 20:08:13 Europe/Berlin] PHP Warning:  Undefined variable $row in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 39
+[14-Feb-2025 20:08:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 39
+[14-Feb-2025 20:08:13 Europe/Berlin] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 39
+[14-Feb-2025 20:10:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 53
+[15-Feb-2025 17:37:54 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_adi" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:37:54 Europe/Berlin] PHP Warning:  Undefined array key "kullanici_sifre" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:46:55 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:46:55 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:47:00 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:47:00 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:49:15 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:49:15 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:49:15 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:49:15 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:49:19 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:49:19 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:49:19 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:49:19 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:49:30 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:49:30 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:49:32 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:49:32 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:50:43 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:50:43 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:50:46 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:50:46 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:50:58 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:50:58 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19
+[15-Feb-2025 17:51:01 Europe/Berlin] PHP Warning:  Undefined array key "Username" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 18
+[15-Feb-2025 17:51:01 Europe/Berlin] PHP Warning:  Undefined array key "Password" in C:\xampp\htdocs\To-DoList\HomePage\SignIN\SignIN.php on line 19

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Comic Neue', cursive;
+            background-image: url('/To-DoList/HomePage/Img/HomaPageImg.jpg');
+            background-size: cover;  /* Resmi ekranı tam kaplayacak şekilde ayarlar */
+            background-position: center; /* Resmi ortalar */
+            background-repeat: no-repeat; /* Resmin tekrar etmesini engeller */
+            height: 100vh; /* Yükseklik: Tüm ekranı kaplar */
+            display: flex;
+            justify-content: center; /* Yatayda ortalama */
+            align-items: center; /* Dikeyde ortalama */
+            margin: 0;
+        }
+        form {
+            background-color: rgba(255, 255, 255, 0.8); /* Arka planı biraz şeffaf yap */
+            padding: 40px; /* Form çevresine boşluk bırak */
+            border-radius: 10px; /* Köşeleri yuvarla */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Hafif gölge */
+        }
+        input[type="text"], input[type="password"], input[type="email"] {
+            background-image: url('/To-DoList/HomePage/Img/HomePageImg3.jpg');
+            background-position: center;
+            background-repeat: no-repeat;
+            width: 100%; /* Genişlik arttırıldı */
+            padding: 10px; /* İç boşluk arttırıldı */
+            font-size: 16px; /* Yazı tipi boyutu arttırıldı */
+            margin-top: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            background-image: url('/To-DoList/HomePage/Img/HomePageImg3.jpg');
+            width: 50%; /* Genişlik arttırıldı */
+            padding: 10px;
+            font-size: 16px;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        input[type="submit"]:hover {
+            background-color: #eff2ef; /* Hover durumunda renk değişimi */
+        }
+    </style>
+</head>
+<body>
+    <form action="/To-DoList/HomePage/SignUP/SignUp.php" method="post" >
+        <label for="Username">Enter Username</label> <br>
+        <input type="text" name="Username"><br><br>
+        <label for="Password1">Enter Password</label> <br>
+        <input type="password" name="Password1"><br><br>
+        <label for="Password2">Enter Password Again</label> <br>
+        <input type="password" name="Password2"><br><br>
+        <label for="Email">Enter Email</label> <br>
+        <input type="email" name="Email"><br><br>
+        <input type="submit" value="Sign Up" name="SignUp"><br>
+    </form>
+</body>
+</html>
