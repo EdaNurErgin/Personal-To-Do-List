@@ -12,5 +12,3 @@ if file_path:
     print(f"Dosya bulundu: {file_path}")
 else:
     print("Dosya bulunamadı.")
-
-# C:/Users\Eda Ergin\AppData\Local\Temp\9dea8d34-6652-4f2c-a95d-01f74d5f856f_archive.zip.56f\project1_df.csv
